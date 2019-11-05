@@ -1,5 +1,7 @@
 # Template for CodeRefinery workshop webpage
 
+test
+
 This repository is a template to set up webpages for CodeRefinery workshops.
 
 To use it, follow these instructions:
